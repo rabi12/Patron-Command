@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\bin\Debug\netcoreapp2.1\PatronCommand.deps.json
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\bin\Debug\netcoreapp2.1\PatronCommand.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\bin\Debug\netcoreapp2.1\PatronCommand.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\bin\Debug\netcoreapp2.1\PatronCommand.dll
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\bin\Debug\netcoreapp2.1\PatronCommand.pdb
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.dll
+C:\Users\rabi.aranda\source\repos\PatronCommand\PatronCommand\obj\Debug\netcoreapp2.1\PatronCommand.pdb
